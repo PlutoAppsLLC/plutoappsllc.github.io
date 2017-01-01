@@ -24,7 +24,9 @@
     "uniqCompNum": 2,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/pluto-128x128-9.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
