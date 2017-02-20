@@ -76,7 +76,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Pluto Apps LLC.</span>",
           "text": "<span style=\"font-style: normal;\">We make apps, websites, and deploy network/computing solutions.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://chat.fefi.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FeFi Chat</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://plutoappsllc.github.io/meils/home.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meils.io</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://plutoapps.network/employee\" data-toolbar=\"-mbrBtnMove\">Employees</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://plutoapps.network/sitedown\" data-toolbar=\"-mbrBtnMove\">Networking/Computing</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://chat.fefi.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FeFi Chat</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://plutoappsllc.github.io/meils/home.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Meils</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://plutoapps.network/employee\" data-toolbar=\"-mbrBtnMove\">Employees</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"http://plutoapps.network/sitedown\" data-toolbar=\"-mbrBtnMove\">Networking/Computing</a> "
         },
         {
           "_inherit": "menu",
@@ -163,7 +163,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Pluto Apps</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://chat.fefi.io\">FeFi Chat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://meils.io\">Meils</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://plutoapps.network/sitedown\">Networking and Computer Solutions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://plutoapps.network/employee\">Employees</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://chat.fefi.io\">FeFi Chat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://meils.io\">Meils</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://plutoapps.network/sitedown\">Networking and Computer Solutions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://status.plutoapps.network\">Status Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"http://plutoapps.network/employee\">Employees</a></li>"
         }
       ]
     }
